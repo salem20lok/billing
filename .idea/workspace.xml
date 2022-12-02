@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd201eb7-0418-4edc-ae44-8f3c6ad6b407" name="Changes" comment="Feature Feature_management : &#10; - add plan feature after add feature in feature modal" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature_management" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="ceec731f-a6eb-4402-bfd4-c7d03d7ac4b0" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sl-billing-front/src/components/pages/dashboard/Dashboard.tsx" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2DnQkVOK6BLtw9fwDcDEo71yM5F" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "/Users/selem/Desktop/sl-billing/sl-billing-back/node_modules/prettier",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "/Users/selem/Desktop/sl-billing/sl-billing-front/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.start:front">
+    <configuration name="back" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/sl-billing-back/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="front" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/sl-billing-front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:back" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/sl-billing-back/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:front" type="js.build_tools.npm" temporary="true">
+      <package-json value="$PROJECT_DIR$/sl-billing-front/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.start:back" />
+      <item itemvalue="npm.start:front" />
+      <item itemvalue="npm.front" />
+      <item itemvalue="npm.back" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start:front" />
+        <item itemvalue="npm.start:back" />
+        <item itemvalue="npm.back" />
+        <item itemvalue="npm.front" />
+        <item itemvalue="npm.front" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd201eb7-0418-4edc-ae44-8f3c6ad6b407" name="Changes" comment="" />
+      <created>1661332513304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661332513304</updated>
+      <workItem from="1661332516208" duration="15841000" />
+      <workItem from="1661359251274" duration="6475000" />
+      <workItem from="1661413563172" duration="11000" />
+      <workItem from="1661413589173" duration="4157000" />
+      <workItem from="1661500253751" duration="12000" />
+      <workItem from="1661500291667" duration="2644000" />
+      <workItem from="1661759014399" duration="22000" />
+      <workItem from="1661759051222" duration="4595000" />
+      <workItem from="1661845581858" duration="18251000" />
+      <workItem from="1661931443513" duration="11000" />
+      <workItem from="1661931477146" duration="15108000" />
+      <workItem from="1662018658077" duration="8000" />
+      <workItem from="1662018682703" duration="4647000" />
+      <workItem from="1662027317542" duration="673000" />
+      <workItem from="1662028017235" duration="3013000" />
+      <workItem from="1663843193231" duration="28000" />
+      <workItem from="1663843243389" duration="120000" />
+      <workItem from="1663843486463" duration="214000" />
+      <workItem from="1663843827898" duration="22000" />
+      <workItem from="1669673622828" duration="94000" />
+      <workItem from="1669673796461" duration="98000" />
+      <workItem from="1669929885892" duration="124000" />
+      <workItem from="1669930013958" duration="52000" />
+      <workItem from="1670018675019" duration="1042000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feature management :&#10; - init&#10; -create schema">
+      <created>1661334956906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661334956906</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feature management :&#10; - feature service&#10; - feature controller">
+      <created>1661338343454</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661338343455</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Feature management :&#10; - plan-feature service&#10; - plan-feature controller">
+      <created>1661339307844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661339307844</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Feature management :&#10; - plan-feature service&#10; - plan-feature controller">
+      <created>1661347295187</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661347295187</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Feature management :&#10; - plan-feature service&#10; - plan-feature controller">
+      <created>1661347445092</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661347445092</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Feature management :&#10;  Custom select feature :&#10;    - react-infinite-scroll-component&#10;    - select multiple for feature&#10;    - search select multi for feature">
+      <created>1661374649557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661374649557</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Feature management :&#10;  Custom select feature :&#10;    - react-infinite-scroll-component&#10;    - select multiple for feature&#10;    - search select multi for feature">
+      <created>1661415507130</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661415507130</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Feature management :&#10;  Custom select feature :&#10;    - react-infinite-scroll-component&#10;    - select multiple for feature&#10;    - search select multi for feature">
+      <created>1661415529105</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661415529105</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature management :&#10;  Custom select feature :&#10;    - react-infinite-scroll-component&#10;    - select multiple for feature&#10;    - search select multi for feature">
+      <created>1661416312415</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661416312415</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Feature management :&#10;  Custom select feature :&#10;    - react-infinite-scroll-component&#10;    - select multiple for feature&#10;    - search select multi for feature">
+      <created>1661416657901</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661416657901</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Feature management :&#10; - delete all planFeature after delete plan">
+      <created>1661418555117</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661418555117</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Feature management :&#10; - delete all planFeature after delete plan">
+      <created>1661419063105</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1661419063105</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Feature management :&#10; - delete all planFeature after delete plan">
+      <created>1661419413606</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1661419413606</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Feature management :&#10; - delete all planFeature after delete plan">
+      <created>1661506148171</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1661506148171</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Feature management :&#10; - delete all planFeature after delete plan">
+      <created>1661769108396</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661769108396</updated>
+    </task>
+    <task id="LOCAL-00016" summary="teamFeature management :&#10; - initialize teamFeature CRUD">
+      <created>1661850840528</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661850840528</updated>
+    </task>
+    <task id="LOCAL-00017" summary="teamFeature management :&#10; - create teamFeatureService&#10; - create teamFeatureController&#10; - create teamFeatureSchema">
+      <created>1661853321447</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1661853321448</updated>
+    </task>
+    <task id="LOCAL-00018" summary="teamFeature management :&#10; - remove duplicate feature plan">
+      <created>1661935093569</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1661935093569</updated>
+    </task>
+    <task id="LOCAL-00019" summary="teamFeature management :&#10; - remove duplicate feature plan">
+      <created>1661936479217</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1661936479217</updated>
+    </task>
+    <task id="LOCAL-00020" summary="teamFeature management :&#10; - remove duplicate feature plan">
+      <created>1661937560872</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1661937560872</updated>
+    </task>
+    <task id="LOCAL-00021" summary="- add async await for controller">
+      <created>1661941719753</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1661941719753</updated>
+    </task>
+    <task id="LOCAL-00022" summary="- add async await for controller">
+      <created>1661942086860</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1661942086860</updated>
+    </task>
+    <task id="LOCAL-00023" summary="- add async await for controller">
+      <created>1661942626720</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1661942626721</updated>
+    </task>
+    <task id="LOCAL-00024" summary="- remove warning">
+      <created>1661954188364</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1661954188364</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Feature Feature_management : &#10; - create feature component&#10; - create add_feature component&#10; - create delete_feature component&#10; - create update_feature component&#10; - create search_pagination_feature component">
+      <created>1661961618637</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1661961618637</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Feature Feature_management : &#10; - delete action&#10; - add action&#10; - update action">
+      <created>1662019551628</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1662019551628</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Feature Feature_management : &#10; - delete action&#10; - add action&#10; - update action">
+      <created>1662021026196</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1662021026196</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Feature Feature_management : &#10; - add plan feature after add feature in feature modal">
+      <created>1662025332602</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1662025332602</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Feature Feature_management : &#10; - add plan feature after add feature in feature modal">
+      <created>1662042772292</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1662042772292</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="81ed182e-b3da-49b2-95dc-d4d89d3617d8">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/team_feature_management" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="81ed182e-b3da-49b2-95dc-d4d89d3617d8" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/team_feature_management" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="develop" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Feature management :&#10; - init&#10; -create schema" />
+    <MESSAGE value="Feature management :&#10; - feature service&#10; - feature controller" />
+    <MESSAGE value="Feature management :&#10; - plan-feature service&#10; - plan-feature controller" />
+    <MESSAGE value="Feature management :&#10;  Custom select feature :&#10;    - react-infinite-scroll-component&#10;    - select multiple for feature&#10;    - search select multi for feature" />
+    <MESSAGE value="Feature management :&#10; - delete all planFeature after delete plan" />
+    <MESSAGE value="teamFeature management :&#10; - initialize teamFeature CRUD" />
+    <MESSAGE value="teamFeature management :&#10; - create teamFeatureService&#10; - create teamFeatureController&#10; - create teamFeatureSchema" />
+    <MESSAGE value="teamFeature management :&#10; - remove duplicate feature plan" />
+    <MESSAGE value="- add async await for controller" />
+    <MESSAGE value="- remove warning" />
+    <MESSAGE value="Feature Feature_management : &#10; - create feature component&#10; - create add_feature component&#10; - create delete_feature component&#10; - create update_feature component&#10; - create search_pagination_feature component" />
+    <MESSAGE value="Feature Feature_management : &#10; - delete action&#10; - add action&#10; - update action" />
+    <MESSAGE value="Feature Feature_management : &#10; - add plan feature after add feature in feature modal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature Feature_management : &#10; - add plan feature after add feature in feature modal" />
+  </component>
+</project>
